@@ -45,6 +45,15 @@ public class Page1 {
 			String txt = element.getText();
 			System.out.println(txt);
 
+			
+			System.out.println(" completed");
+			
+			System.out.println("commpleted");
+			
+			System.out.println("djdhiudq");
+			
+			
+			
 		}
 
 	}
